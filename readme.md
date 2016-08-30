@@ -10,4 +10,4 @@
 
 <p>add draft capstone project proposal pdf 2016-07-01</p>
 
-<p>update flatten<em>kenya.ipynb; add kenya</em>wo<em>problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten</em>kenya.ipynb is superceded; add file 4.1 Data Story Project exercise<em>expanded</em>w_NLP.ipynp. This file includes the ongoing analysis, up to NLP 2016-08-30</p>
+<p>update flatten<em>kenya.ipynb. Add kenya</em>wo<em>problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten</em>kenya.ipynb is superceded. Add file 4.1 Data<em>Story</em>Project<em>exercise</em>expanded<em>w</em>NLP.ipynp. This file includes the ongoing analysis up to NLP. 2016-08-30</p>
