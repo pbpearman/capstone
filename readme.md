@@ -12,3 +12,4 @@
 
 <p>update flatten_kenya.ipynb. Add kenya_wo_problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten_kenya.ipynb is superceded. Add file 4.1$
 
+<p>add Kenya_loan_data_analysis.ipynb.  This is the current development version of the analysis of Kiva microloan data from Kenya 2016-09-16
