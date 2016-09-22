@@ -12,4 +12,4 @@
 
 <p>update flatten_kenya.ipynb. Add kenya_wo_problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten_kenya.ipynb is superceded. Add file 4.1_Data_Story_Project_exercise_expanded_w_NLP.ipynp. This file includes the ongoing analysis up to NLP. 2016-08-30</p>
 
-<p>update Kiva<em>loan</em>data_analysis.ipynb, readme, readme.md</p>
+<p>update Kiva_loan_data_analysis.ipynb, readme, readme.md</p>
