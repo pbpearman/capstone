@@ -1,0 +1,15 @@
+Capstone Notes
+--------------
+
+file created 2016-05-30
+
+add two python notebooks 2016-06-24
+
+add test change to flatten_kenya.ipynb 2016-06-26
+
+modifield flatten_kenya.ipynb to start functions for flattening several columns 2016-06-27
+
+add draft capstone project proposal pdf 2016-07-01
+
+update flatten\_kenya.ipynb. Add kenya\_wo\_problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten\_kenya.ipynb is superceded. Add file 4.1\_Data\_Story\_Project\_exercise_expanded\_w\_NLP.ipynp. This file includes the ongoing analysis up to NLP. 2016-08-30
+
