@@ -1,5 +1,5 @@
-Capstone Notes
---------------
+Capstone Project: Kiva Loan Data from Kenya
+===========================================
 
 file created 2016-05-30
 
@@ -13,3 +13,4 @@ add draft capstone project proposal pdf 2016-07-01
 
 update flatten\_kenya.ipynb. Add kenya\_wo\_problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten\_kenya.ipynb is superceded. Add file 4.1\_Data\_Story\_Project\_exercise_expanded\_w\_NLP.ipynp. This file includes the ongoing analysis up to NLP. 2016-08-30
 
+update Kiva_loan_data_analysis.ipynb, readme, readme.md
