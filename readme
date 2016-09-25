@@ -14,3 +14,7 @@ add draft capstone project proposal pdf 2016-07-01
 update flatten\_kenya.ipynb. Add kenya\_wo\_problems.ipynb. This file flattens the Kenya data without flattening cells that result in variable numbers of columns. Thus, flatten\_kenya.ipynb is superceded. Add file 4.1\_Data\_Story\_Project\_exercise_expanded\_w\_NLP.ipynp. This file includes the ongoing analysis up to NLP. 2016-08-30
 
 update Kiva\_loan\_data\_analysis.ipynb, readme, readme.md
+
+update Kiva\_loan\data\_analysis.ipynb, Kiva\_loan\_analysis\_defaults.ipynb readme, readme.md 2016-09-25
+
+

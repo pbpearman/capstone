@@ -1,4 +1,7 @@
 Markdown.pl
 style-notebook.css
 style-table.css
+data/df2b.pickle
+.DS_Store
+.ipynb_checkpoints
 
