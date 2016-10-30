@@ -19,3 +19,5 @@
 <p>update Kiva_loan\data_analysis.ipynb, Kiva_loan_analysis_defaults.ipynb readme, readme.md 2016-09-25</p>
 
 <p>update Kiva_loan_analysis_defaults.ipynb Kiva<em>loan</em>analysis<em>defaults</em>LR.ipynb and readme 2016-10-12</p>
+
+<p>update report files and notebooks 2016-10-30</p>
