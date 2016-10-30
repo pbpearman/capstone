@@ -57,11 +57,16 @@ Only in the sectors Transportation, Construction and Manufacturing do loans to m
 
 #### Patterns of Defaults in Kiva Loan Data
 
-In addition to sector and gender-specific patterns in borrowing, I was interested in whether there were also sector and gender specific patterns in default rates.  Several factors appear to have influenced default rates historically.
+In addition to sector and gender-specific patterns in borrowing, I was interested in whether there were also sector and gender specific patterns in default rates.  Several factors appear to have influenced default rates historically (see ipython notebook at this link: .
 
 In general, when considering loans to single individuals, larger loans have had higher default rates.
 ![default_x_loan_size](./images/default_rate_x_loan_size.png)
 
+Overall, there is no obvious effect of gender on default rate.
+![default_by_gender.png](./images/default_by_gender.png)
+
+However, when one examines sector-specific default rates by gender, one finds substantial variation among sectors.
+![default_gender_size](default_by_gender_and_loan_size.png)
 
 
 
